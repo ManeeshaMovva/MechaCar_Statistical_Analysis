@@ -30,3 +30,9 @@ Lots 1 and 2 meet the sppecification requirements while Lot 3 does not. Lots 1 a
 
 ![lot 3](https://user-images.githubusercontent.com/74915619/122652504-48238700-d10d-11eb-8fc1-d6eb44178271.PNG)
 
+## Study Design: MechaCar vs Competition
+
+To compare the performance of MechaCar against its competition, we will take into consideration multiple factors such as: cost, city or highway fuel efficiency, horse power, maintenance cost, safety rating, insurance, etc. We can do this comparison by using statistical analysis and the factors we will loook more in depth to are total cost of the car, MPG, and maintenance cost. 
+
+Starting off our statistical analysis, 
+
