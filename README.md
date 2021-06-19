@@ -11,3 +11,22 @@ Vehicle weight, AWD and spoiler angle are variables that provided a non-random a
 Seeing as the slopes of the variables are not zero, the slope of the linear model is not considered to be zero.
 
 The R squared value for this linear model is 71% which means we can predict MPG of MechaCar prototypes only 71% of the time. Although 71% is a high percentage, I don't believe it's high enough for us to make accurate predictions. 
+
+## Summary Statistics on Suspension Coils
+
+Lots 1 and 2 meet the sppecification requirements while Lot 3 does not. Lots 1 and 2 both have low variance values when compared to 100 PSI, however, Lot 3 has is over that 100 PSI, which means it fails to meet the necessary requirements. 
+
+## T-Tests on Suspension Coils
+
+### Lot 1
+
+![lot 1](https://user-images.githubusercontent.com/74915619/122652500-435ed300-d10d-11eb-99e3-49b304a05716.PNG)
+
+### Lot 2
+
+![lot 2](https://user-images.githubusercontent.com/74915619/122652503-4659c380-d10d-11eb-86a3-d13dc06b8a4e.PNG)
+
+### Lot 3
+
+![lot 3](https://user-images.githubusercontent.com/74915619/122652504-48238700-d10d-11eb-8fc1-d6eb44178271.PNG)
+
