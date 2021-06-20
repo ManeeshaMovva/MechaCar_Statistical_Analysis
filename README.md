@@ -32,7 +32,6 @@ Lots 1 and 2 meet the sppecification requirements while Lot 3 does not. Lots 1 a
 
 ## Study Design: MechaCar vs Competition
 
-To compare the performance of MechaCar against its competition, we will take into consideration multiple factors such as: cost, city or highway fuel efficiency, horse power, maintenance cost, safety rating, insurance, etc. We can do this comparison by using statistical analysis and the factors we will loook more in depth to are total cost of the car, MPG, and maintenance cost. 
+To compare the performance of MechaCar against its competition, we will take into consideration multiple factors such as: cost, city or highway fuel efficiency, horse power, maintenance cost, safety rating, insurance, etc. We can do this comparison by using statistical analysis and the factors we will look more in depth to are total cost of the car, MPG, and maintenance cost. 
 
-Starting off our statistical analysis, 
-
+Starting off our statistical analysis, we would need to collect cost, MPG and maintenance cost of MechaCar and it's competitors. T-test is used to determine whether two entities are statistically diifferent from each other, while ANOVA determines whether three or more are statistically different from each other. I would use an ANOVA test in this case as we're comparing dependent variables across various independent variables (competitors). We would look at various cars which would be the independent variables in this scenario and use factors such as cost or MPG. In this case, our null hypothesis would be that there is no significant difference between Mechacar and it's competitors and running the test would help us to determine whether to reject or accept the null hypothesis. 
